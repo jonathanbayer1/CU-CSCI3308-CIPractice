@@ -1,3 +1,3 @@
 language: c
-install: true
+install: make dep
 target: make test
